@@ -1,0 +1,154 @@
+body {
+  font-family: sans-serif;
+}
+
+#con1 {
+  height: 700px;
+  width: 660px;
+  margin-top: 0%;
+  text-align: center;
+  border-radius: 4px;
+}
+
+.con1 h2 {
+  margin-top: 6%;
+  color: rgb(60, 63, 63);
+}
+
+#con2 {
+  height: 600px;
+  width: 500px;
+  margin-top: 0 auto;
+  margin-left: 10%;
+  text-align: center;
+  background-color: rgb(255, 255, 255);
+  border-radius: 4px;
+}
+.box {
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(214, 215, 215);
+  width: 450px;
+  height: 500px;
+  position: relative;
+  margin-top: 5%;
+}
+
+form {
+  display: block;
+  flex-direction: column;
+}
+
+form input {
+  padding: 5px;
+  margin: 10px;
+  border: 1px solid #ccc;
+  width: 70%;
+  height: 30px;
+  font-size: 15px;
+  border-radius: 5px;
+}
+
+.btn-1 {
+  background-color: white;
+  color: black;
+  border: 1px solid rgb(231, 227, 227);
+  border-top: 3px solid green;
+  padding: 10px 20px;
+  width: 200px;
+  font-size: 16px;
+}
+.btn-2 {
+  background-color: #f1e8e8;
+  color: black;
+  border: 1px solid lightgray;
+  padding: 10px 20px;
+  width: 200px;
+  font-size: 16px;
+}
+
+.btn-3 {
+  background-color: green;
+  color: white;
+  font-size: 16px;
+  border: none;
+  padding: 10px 20px;
+  margin-top: 10px;
+  position: relative;
+  width: 90%;
+  border-radius: 5px;
+}
+
+.btn-4 {
+  background-color: #c71610;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  position: relative;
+  width: 30%;
+  font-size: 16px;
+  margin: 10px;
+}
+
+.btn-5 {
+  background-color: #3b5998;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  position: relative;
+  width: 30%;
+  font-size: 16px;
+}
+
+.btn-6 {
+  background-color: #0072b1;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  position: relative;
+  width: 30%;
+  font-size: 16px;
+  margin: 10px;
+}
+
+.btn-7 {
+  background-color: black;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  position: relative;
+  width: 30%;
+  font-size: 16px;
+}
+
+#checkbox {
+  width: 15px;
+  display: flex;
+  margin-left: 50px;
+}
+
+.remember {
+  display: flex;
+  margin-top: -33px;
+  margin-left: 70px;
+}
+
+a{
+    text-decoration: none;
+    color: #666;
+    margin-top: -23px;
+    margin-left: 300px;
+    display: flex;
+    position: absolute;
+}
+
+p{
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.text{
+    color: green;
+    font-weight: 700;
+    font-size: 16px;
+}
